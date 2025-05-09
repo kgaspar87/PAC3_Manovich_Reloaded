@@ -1,8 +1,8 @@
 # PAC3 – Manovich Reloaded
 
-**Autor:** Kevin Gaspar Rubio 
-**Assignatura:** Cultura Digital - Aula 1 – UOC  
-**Títol:** PAC3 Hibridacions audiovisuals emergents: més enllà del programari tradicional
+**Autor:** [El teu nom complet]  
+**Assignatura:** Disseny de vídeo – UOC  
+**Títol:** Hibridacions audiovisuals emergents: més enllà del programari tradicional
 
 ---
 
@@ -12,40 +12,36 @@ En aquest assaig es presenten dos casos recents d'hibridació audiovisual que ex
 
 ---
 
-## Exemple 1: *The Line – 'Together'*
-
-![The Line - Together](https://i.vimeocdn.com/video/1119464621-ffdf8fdbbf67e0e8a5c83340b8e20456b2f2cf2c6ef382ad4_1280x720.jpg)
+## Exemple 1: *The Line – Delivery at Dawn*
 
 ### Descripció del projecte
 
-‘Together’ és un curtmetratge animat desenvolupat per l’estudi britànic *The Line*, reconegut internacionalment per la seva capacitat de fusionar tècniques d’animació clàssica amb tecnologies digitals avançades. Aquesta peça audiovisual va ser llançada com a part d’una campanya global per promoure la unitat emocional en temps de pandèmia, i destaca per la seva capacitat de transmetre emocions complexes amb una tècnica d’animació fluïda i profundament artística.
+*Delivery at Dawn* és un curtmetratge creat per *The Line Animation*, un estudi reconegut per la seva capacitat d’integrar animació dibuixada a mà amb entorns digitals avançats. El projecte narra la història d’un repartidor que, en una ciutat futurista, s’enfronta a un recorregut que barreja acció, velocitat i emoció. Més enllà del guió, destaca pel seu estil visual híbrid i la fluïdesa del moviment.
 
-El projecte és fruit d’un procés de producció híbrid que utilitza animació 2D dibuixada a mà, escenaris i càmeres 3D renderitzats amb programari propi de videojocs com *Unity* o *Blender*, i eines digitals per a la composició, com *After Effects*. A més, algunes fases del procés van ser optimitzades amb IA, com per exemple la interpolació de frames i l’anàlisi facial per millorar les expressions animades.
+El curt és fruit d’un procés tècnic en què es combinen il·lustració 2D amb càmeres virtuals i escenaris 3D renderitzats. També incorpora tècniques de composició digital i utilització de programari propi de videojocs com Blender, així com tècniques d’IA per optimitzar seqüències, interpolació de frames i correcció de moviment.
 
 ### Elements híbrids
 
-- Animació 2D tradicional dibuixada a mà.
-- Escenaris i càmeres 3D amb renderització estil videojoc.
-- Programari de videojocs per a càmeres, llum i entorns.
-- IA aplicada en interpolació i control de moviment.
-- Narrativa emocional pròpia del cinema, amb ritme visual de videoclip.
+- Personatges animats en 2D dibuixats a mà, amb traç dinàmic i expressiu.
+- Escenaris tridimensionals creats en 3D amb càmeres en moviment.
+- Il·luminació i renderització pròpia de motors gràfics de videojoc.
+- Postproducció digital i integració visual mitjançant After Effects i IA.
+- Fusió d’estètica anime amb narració cinematogràfica i ritme de videoclip.
 
 ### Anàlisi amb les “ulleres de Manovich”
 
-Lev Manovich planteja que el programari ha passat de ser una eina instrumental a una plataforma cultural i creativa, transformant la manera com es construeixen les narratives visuals. *Together* és un exemple d’aquest canvi: la tecnologia no és només un mitjà de producció, sinó un agent estètic i conceptual que fa possible un tipus de narrativa que només pot existir gràcies a la seva naturalesa híbrida. L’ús simultani de tècniques tradicionals i digitals reflecteix la idea del *metamedium*, on diferents mitjans s’integren en un flux de creació únic i no-lineal.
+Segons Manovich, el programari no només permet crear, sinó que transforma els llenguatges audiovisuals. *Delivery at Dawn* representa aquesta transició: l’obra no existeix sense la combinació de diferents tecnologies digitals. No es tracta d’un curt fet amb programari, sinó d’un curt que *és* programari. L’ús de capes digitals, càmeres virtuals i processos automatitzats exemplifica l’evolució del programari com a *metamedium*, integrador de mitjans múltiples i processos.
 
 ### Conclusions
 
-Aquest curtmetratge il·lustra com la hibridació no només afecta el resultat final (l’obra), sinó també els processos interns de creació. *The Line* no imita el cinema ni el videojoc, sinó que els combina per generar una experiència expressiva nova. És una mostra clara del poder del programari per redefinir els límits entre disciplines creatives.
+Aquest projecte reflecteix una nova manera d’entendre l’animació i la narrativa visual. No és simplement una animació feta amb eines digitals, sinó una obra creada mitjançant una estructura productiva híbrida i tecnològicament interconnectada. És un cas paradigmàtic del potencial narratiu del programari contemporani.
 
-🔗 [The Line – 'Together'](https://www.thelineanimation.com/work/together)  
-🔗 [Vídeo a Vimeo](https://vimeo.com/525228124)
+🔗 [Reel del projecte a Instagram](https://www.instagram.com/reel/C4gLBx2O9Cy/)  
+🔗 [The Line – Delivery at Dawn (pàgina oficial)](https://thelinestudio.com/work)
 
 ---
 
 ## Exemple 2: *Runway ML – Gen-2*
-
-![Runway Gen-2](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*iE4sGQKctOp9SCLqDhKJNg.png)
 
 ### Descripció del projecte
 
@@ -78,8 +74,8 @@ Runway Gen-2 obre les portes a una democratització radical de la creació audio
 ## Referències
 
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
-- The Line Animation: https://www.thelineanimation.com/  
+- The Line Animation: https://thelinestudio.com  
 - Runway ML: https://runwayml.com/  
-- Vimeo: https://vimeo.com/theline  
+- Instagram: https://www.instagram.com/thelineanimation/  
 - Ús de la IA: S’ha fet ús de ChatGPT per al suport estructural i redacció supervisada. Tot el contingut ha estat adaptat i validat per l’autor.
 
