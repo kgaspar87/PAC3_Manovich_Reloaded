@@ -1,8 +1,8 @@
 # PAC3 – Manovich Reloaded
 
-**Autor:** [El teu nom complet]  
-**Assignatura:** Disseny de vídeo – UOC  
-**Títol:** Hibridacions audiovisuals emergents: més enllà del programari tradicional
+**Autor:** Kevin Gaspar Rubio 
+**Assignatura:** Cultura Digital - Aula 1 – UOC  
+**Títol:** PAC3 Hibridacions audiovisuals emergents: més enllà del programari tradicional
 
 ---
 
