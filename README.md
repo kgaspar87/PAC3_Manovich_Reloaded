@@ -14,6 +14,8 @@ En aquest assaig es presenten dos casos recents d'hibridació audiovisual que ex
 
 ## Exemple 1: *The Line – 'Together'*
 
+![The Line - Together](https://i.vimeocdn.com/video/1119464621-ffdf8fdbbf67e0e8a5c83340b8e20456b2f2cf2c6ef382ad4_1280x720.jpg)
+
 ### Descripció del projecte
 
 ‘Together’ és un curtmetratge animat desenvolupat per l’estudi britànic *The Line*, reconegut internacionalment per la seva capacitat de fusionar tècniques d’animació clàssica amb tecnologies digitals avançades. Aquesta peça audiovisual va ser llançada com a part d’una campanya global per promoure la unitat emocional en temps de pandèmia, i destaca per la seva capacitat de transmetre emocions complexes amb una tècnica d’animació fluïda i profundament artística.
@@ -42,6 +44,8 @@ Aquest curtmetratge il·lustra com la hibridació no només afecta el resultat f
 ---
 
 ## Exemple 2: *Runway ML – Gen-2*
+
+![Runway Gen-2](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*iE4sGQKctOp9SCLqDhKJNg.png)
 
 ### Descripció del projecte
 
