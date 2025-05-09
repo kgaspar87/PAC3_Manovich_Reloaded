@@ -1,7 +1,7 @@
 # PAC3 – Manovich Reloaded
 
-**Autor:** [El teu nom complet]  
-**Assignatura:** Disseny de vídeo – UOC  
+**Autor:** Kevin Gaspar Rubio 
+**Assignatura:** Cultura Digital - Aula 1 – UOC  
 **Títol:** Hibridacions audiovisuals emergents: més enllà del programari tradicional
 
 ---
@@ -78,4 +78,4 @@ A més, Runway no només genera vídeo, sinó que permet combinar diversos *inpu
 - The Line Animation: https://thelinestudio.com  
 - Runway ML: https://runwayml.com  
 - Instagram: https://www.instagram.com/thelineanimation/  
-- Ús de la IA: S’ha fet ús de ChatGPT per al suport estructural i redacció supervisada. Tot el contingut ha estat adaptat i validat per l’autor.
+
