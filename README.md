@@ -12,62 +12,63 @@ En aquest assaig es presenten dos casos recents d'hibridació audiovisual que ex
 
 ---
 
-## Exemple 1: *The Line – Delivery at Dawn*
+## Exemple 1: *Delivery at Dawn* – The Line Animation
 
 ### Descripció del projecte
 
-*Delivery at Dawn* és un curtmetratge creat per *The Line Animation*, un estudi reconegut per la seva capacitat d’integrar animació dibuixada a mà amb entorns digitals avançats. El projecte narra la història d’un repartidor que, en una ciutat futurista, s’enfronta a un recorregut que barreja acció, velocitat i emoció. Més enllà del guió, destaca pel seu estil visual híbrid i la fluïdesa del moviment.
+*Delivery at Dawn* és un curtmetratge d'animació creat per l'estudi britànic *The Line*, conegut per la seva capacitat de trencar les fronteres entre tècniques d'animació tradicionals i digitals. El curt narra el viatge d’un missatger en una ciutat futurista, amb un estil visual molt proper a l’*anime*, però amb un tractament tècnic altament híbrid que el converteix en un exemple excel·lent de la fusió de llenguatges.
 
-El curt és fruit d’un procés tècnic en què es combinen il·lustració 2D amb càmeres virtuals i escenaris 3D renderitzats. També incorpora tècniques de composició digital i utilització de programari propi de videojocs com Blender, així com tècniques d’IA per optimitzar seqüències, interpolació de frames i correcció de moviment.
+A nivell formal, la peça destaca per la seva combinació d’animació 2D dibuixada a mà amb entorns i càmeres 3D, renderitzats amb motors gràfics propis del videojoc. Els personatges mantenen el traç orgànic i expressiu de l’animació clàssica, mentre que els espais per on es mouen estan construïts digitalment, permetent moviments de càmera més complexos, variacions de llum en temps real i una sensació de profunditat escènica que la 2D pura no pot oferir.
 
-### Elements híbrids
+Aquest sistema híbrid fa possible coreografies dinàmiques i una posada en escena que combina la immediatesa del videojoc amb la intensitat emocional del cinema.
 
-- Personatges animats en 2D dibuixats a mà, amb traç dinàmic i expressiu.
-- Escenaris tridimensionals creats en 3D amb càmeres en moviment.
-- Il·luminació i renderització pròpia de motors gràfics de videojoc.
-- Postproducció digital i integració visual mitjançant After Effects i IA.
-- Fusió d’estètica anime amb narració cinematogràfica i ritme de videoclip.
+A més, el projecte s’ha beneficiat de processos automatitzats mitjançant intel·ligència artificial, com la interpolació de frames o l’ajust de moviment facial, optimitzant la producció sense perdre control artístic.
+
+Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capacitat d’intervenció, eliminant tasques repetitives i permetent enfocaments més creatius.
 
 ### Anàlisi amb les “ulleres de Manovich”
 
-Segons Manovich, el programari no només permet crear, sinó que transforma els llenguatges audiovisuals. *Delivery at Dawn* representa aquesta transició: l’obra no existeix sense la combinació de diferents tecnologies digitals. No es tracta d’un curt fet amb programari, sinó d’un curt que *és* programari. L’ús de capes digitals, càmeres virtuals i processos automatitzats exemplifica l’evolució del programari com a *metamedium*, integrador de mitjans múltiples i processos.
+Amb les "ulleres de Manovich", podem llegir *Delivery at Dawn* com un producte resultant del que ell anomena "metamedium": un entorn on múltiples mitjans (animació, videojoc, cinema, codi) coexisteixen i es retroalimenten a través del programari. Aquí, el programari no és només una eina de producció, sinó l’escenari mateix de la creació.
+
+L’obra no es limita a simular formats antics, sinó que crea un nou llenguatge visual nascut de la fusió. En aquest sentit, l’hibridació no és superficial (com la simple barreja d’estils visuals), sinó estructural: afecta la narrativa, la producció, el ritme i fins i tot la relació entre creador i eina.
 
 ### Conclusions
 
-Aquest projecte reflecteix una nova manera d’entendre l’animació i la narrativa visual. No és simplement una animació feta amb eines digitals, sinó una obra creada mitjançant una estructura productiva híbrida i tecnològicament interconnectada. És un cas paradigmàtic del potencial narratiu del programari contemporani.
+*Delivery at Dawn* no només és una peça visualment atractiva, sinó un reflex clar del nou paradigma de creació audiovisual que Manovich anticipava. És un producte que només pot existir gràcies a la hibridació entre disciplines i tecnologies. La combinació d’animació manual, entorns virtuals, engines de videojoc i processos automatitzats exemplifica una nova era on els límits entre art, tècnica i programari són cada cop més difusos.
 
-🔗 [Reel del projecte a Instagram](https://www.instagram.com/reel/C4gLBx2O9Cy/)  
-🔗 [The Line – Delivery at Dawn (pàgina oficial)](https://thelinestudio.com/work)
+🔗 [Behind the scenes a Instagram](https://www.instagram.com/reel/C4gLBx2O9Cy/)  
+🔗 [The Line – Web oficial](https://thelinestudio.com/work)
 
 ---
 
-## Exemple 2: *Runway ML – Gen-2*
+## Exemple 2: *Runway Gen-2* – Intel·ligència artificial i vídeo generatiu
 
 ### Descripció del projecte
 
-*Runway Gen-2* és un sistema d’intel·ligència artificial generativa creat per l’empresa *Runway*, una de les pioneres en el desenvolupament d’eines audiovisuals basades en IA. Aquesta plataforma permet generar clips de vídeo de pocs segons a partir d’un simple text escrit (prompt), sense necessitat d’imatges de referència ni gravació prèvia.
+*Runway Gen-2* és una de les eines més innovadores dins del camp de la creació audiovisual basada en intel·ligència artificial. Desenvolupada per l’empresa *Runway*, aquesta plataforma representa una nova hibridació radical entre llenguatge escrit, algoritmes d’aprenentatge automàtic i vídeo generatiu.
 
-L’usuari pot escriure, per exemple, “un cavall galopant per un desert sota un cel vermellós”, i l’eina generarà automàticament un vídeo amb aquest contingut, aplicant estètica cinematogràfica, moviment coherent i una atmosfera visual definida. Aquest procés s’aconsegueix a través d’un model d’aprenentatge profund entrenat amb milions de vídeos reals.
+Permet, a partir d’un simple text, generar clips de vídeo breus, realistes i amb una estètica cinematogràfica sorprenent. L’usuari només ha d’introduir un *prompt*, com ara “una ciutat abandonada coberta per boira”, i l’eina genera un clip coherent, amb moviment, il·luminació i color.
 
-Gen-2 representa una nova frontera de la creació audiovisual, on la imaginació verbal es transforma directament en seqüència visual.
+Aquest procés és possible gràcies a models d’aprenentatge profund entrenats amb grans bases de dades audiovisuals. El sistema entén el llenguatge natural, el transforma en vectors semàntics i els converteix en imatges en moviment mitjançant tècniques com els *GANs* (Generative Adversarial Networks) i els models de difusió. Tot això sense necessitat de rodatge, animació manual ni muntatge.
 
-### Elements híbrids
-
-- Hibridació entre llenguatge escrit i imatge audiovisual en moviment.
-- Models d’IA generativa com GANs i models de difusió.
-- Simulació de càmera i il·luminació cinematogràfica automatitzada.
-- Interacció creativa mitjançant text com a eina de direcció audiovisual.
+És un entorn de creació radicalment diferent on el llenguatge verbal substitueix la càmera, l’actor i el director.
 
 ### Anàlisi amb les “ulleres de Manovich”
 
-Manovich descriu el programari com un sistema que genera nous llenguatges visuals, i això és precisament el que fa Runway: crea un mitjà nou. Aquí, el llenguatge escrit no només serveix per descriure, sinó que es converteix en l’eina central de creació visual. És una hibridació total entre expressió verbal, algoritmes computacionals i narrativa audiovisual, que transforma l’autoria tal com l’entenem. Ja no cal saber filmar, muntar ni animar per crear una obra visual complexa: només cal escriure.
+Manovich descriu el programari com un sistema que genera nous llenguatges visuals, i això és precisament el que fa Runway: crea un mitjà nou. Aquí, el llenguatge escrit no només serveix per descriure, sinó que es converteix en l’eina central de creació visual.
+
+És una hibridació total entre expressió verbal, algoritmes computacionals i narrativa audiovisual, que transforma l’autoria tal com l’entenem. Ja no cal saber filmar, muntar ni animar per crear una obra visual complexa: només cal escriure.
+
+A més, Runway no només genera vídeo, sinó que permet combinar diversos *inputs* (text, imatges, vídeo de referència), crear transicions, aplicar filtres i ajustar estils visuals, fent que la IA actuï com una mena de "coautor creatiu".
 
 ### Conclusions
 
-Runway Gen-2 obre les portes a una democratització radical de la creació audiovisual. Representa un salt conceptual en què l’autor delega en la màquina el procés de creació, però conserva el control conceptual a través del llenguatge. És una eina que exemplifica el futur de la creació híbrida i posa en crisi la frontera entre espectador, autor i màquina.
+*Runway Gen-2* representa un cas extrem d’hibridació, tant en la seva forma com en la seva metodologia. Trenca completament la lògica clàssica de producció audiovisual i obre un debat sobre el futur de l’autoria, la creativitat i la figura de l’artista.
 
-🔗 [Runway Gen-2](https://runwayml.com/gen2)  
-🔗 [Vídeo demostratiu](https://www.youtube.com/watch?v=jJOQjS7Eo3I)
+És un exemple perfecte d’on pot portar la fusió entre narrativa, algoritmes i estètica visual en el context d’un programari que ja no només ajuda a crear, sinó que crea per si sol.
+
+🔗 [Runway Gen-2 – Web oficial](https://runwayml.com/gen2)  
+🔗 [Vídeo de mostra](https://www.youtube.com/watch?v=jJOQjS7Eo3I)
 
 ---
 
@@ -75,7 +76,6 @@ Runway Gen-2 obre les portes a una democratització radical de la creació audio
 
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
 - The Line Animation: https://thelinestudio.com  
-- Runway ML: https://runwayml.com/  
+- Runway ML: https://runwayml.com  
 - Instagram: https://www.instagram.com/thelineanimation/  
 - Ús de la IA: S’ha fet ús de ChatGPT per al suport estructural i redacció supervisada. Tot el contingut ha estat adaptat i validat per l’autor.
-
