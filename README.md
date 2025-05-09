@@ -1,8 +1,10 @@
 # PAC3 – Manovich Reloaded
 
-**Autor:** Kevin Gaspar Rubio  
+**Autor:** [El teu nom complet]  
 **Assignatura:** Disseny de vídeo – UOC  
-**Títol:** Hibridacions audiovisuals emergents: més enllà del programari tradicional  
+**Títol:** Hibridacions audiovisuals emergents: més enllà del programari tradicional
+
+---
 
 ## Introducció
 
@@ -14,24 +16,28 @@ En aquest assaig es presenten dos casos recents d'hibridació audiovisual que ex
 
 ### Descripció del projecte
 
-*Together* és un curtmetratge produït per l’estudi d’animació *The Line*, conegut per combinar tècniques tradicionals amb tecnologies de nova generació. Aquest projecte explora la connexió emocional entre personatges a través d’una estètica híbrida: animació 2D dibuixada a mà, escenaris 3D renderitzats amb tecnologia de videojoc, i fluxos de treball optimitzats amb IA.
+‘Together’ és un curtmetratge animat desenvolupat per l’estudi britànic *The Line*, reconegut internacionalment per la seva capacitat de fusionar tècniques d’animació clàssica amb tecnologies digitals avançades. Aquesta peça audiovisual va ser llançada com a part d’una campanya global per promoure la unitat emocional en temps de pandèmia, i destaca per la seva capacitat de transmetre emocions complexes amb una tècnica d’animació fluïda i profundament artística.
+
+El projecte és fruit d’un procés de producció híbrid que utilitza animació 2D dibuixada a mà, escenaris i càmeres 3D renderitzats amb programari propi de videojocs com *Unity* o *Blender*, i eines digitals per a la composició, com *After Effects*. A més, algunes fases del procés van ser optimitzades amb IA, com per exemple la interpolació de frames i l’anàlisi facial per millorar les expressions animades.
 
 ### Elements híbrids
 
-- Tècniques de dibuix 2D combinades amb escenaris 3D (render amb cel shading).
-- Programari de videojocs per a càmeres i il·luminació.
-- IA per generar, ajustar o optimitzar expressions i efectes visuals.
-- Narrativa clàssica però amb ritme i estil propis del llenguatge interactiu.
+- Animació 2D tradicional dibuixada a mà.
+- Escenaris i càmeres 3D amb renderització estil videojoc.
+- Programari de videojocs per a càmeres, llum i entorns.
+- IA aplicada en interpolació i control de moviment.
+- Narrativa emocional pròpia del cinema, amb ritme visual de videoclip.
 
 ### Anàlisi amb les “ulleres de Manovich”
 
-Aquest projecte exemplifica la dissolució de les fronteres entre mitjans digitals. Tal com Manovich planteja, el programari no és només una eina sinó una plataforma creativa que integra funcions múltiples. En *Together*, no només s’usa programari per produir imatges, sinó que aquest defineix l’estètica, el ritme i la forma de producció. És una obra nascuda de la flexibilitat del programari com a metamedium.
+Lev Manovich planteja que el programari ha passat de ser una eina instrumental a una plataforma cultural i creativa, transformant la manera com es construeixen les narratives visuals. *Together* és un exemple d’aquest canvi: la tecnologia no és només un mitjà de producció, sinó un agent estètic i conceptual que fa possible un tipus de narrativa que només pot existir gràcies a la seva naturalesa híbrida. L’ús simultani de tècniques tradicionals i digitals reflecteix la idea del *metamedium*, on diferents mitjans s’integren en un flux de creació únic i no-lineal.
 
 ### Conclusions
 
-*Together* representa una nova forma de producció audiovisual: econòmica, ràpida i altament expressiva, que només és possible gràcies a la combinació de mitjans digitals, animació tradicional i eines pròpies del videojoc. És un exemple clar d’hibridació que va més enllà del format i afecta l’estructura narrativa i productiva de l’obra.
+Aquest curtmetratge il·lustra com la hibridació no només afecta el resultat final (l’obra), sinó també els processos interns de creació. *The Line* no imita el cinema ni el videojoc, sinó que els combina per generar una experiència expressiva nova. És una mostra clara del poder del programari per redefinir els límits entre disciplines creatives.
 
-🔗 [https://www.thelineanimation.com/work/together](https://www.thelineanimation.com/work/together)
+🔗 [The Line – 'Together'](https://www.thelineanimation.com/work/together)  
+🔗 [Vídeo a Vimeo](https://vimeo.com/525228124)
 
 ---
 
@@ -39,31 +45,37 @@ Aquest projecte exemplifica la dissolució de les fronteres entre mitjans digita
 
 ### Descripció del projecte
 
-Runway Gen-2 és una eina basada en intel·ligència artificial que genera vídeo a partir de text. Amb només un prompt escrit, l’usuari pot obtenir una seqüència audiovisual animada, amb moviment, composició cinematogràfica i coherència visual sorprenent. La plataforma forma part del corrent de *text-to-video*, una evolució de les tecnologies *text-to-image* com Midjourney o DALL·E.
+*Runway Gen-2* és un sistema d’intel·ligència artificial generativa creat per l’empresa *Runway*, una de les pioneres en el desenvolupament d’eines audiovisuals basades en IA. Aquesta plataforma permet generar clips de vídeo de pocs segons a partir d’un simple text escrit (prompt), sense necessitat d’imatges de referència ni gravació prèvia.
+
+L’usuari pot escriure, per exemple, “un cavall galopant per un desert sota un cel vermellós”, i l’eina generarà automàticament un vídeo amb aquest contingut, aplicant estètica cinematogràfica, moviment coherent i una atmosfera visual definida. Aquest procés s’aconsegueix a través d’un model d’aprenentatge profund entrenat amb milions de vídeos reals.
+
+Gen-2 representa una nova frontera de la creació audiovisual, on la imaginació verbal es transforma directament en seqüència visual.
 
 ### Elements híbrids
 
-- Processament de llenguatge natural per entendre el prompt.
-- Motor gràfic generatiu (deep learning) per crear les imatges en moviment.
-- Simulació de càmera, narrativa visual i estètica cinematogràfica.
-- Sense necessitat de cap càmera física ni equip de producció tradicional.
+- Hibridació entre llenguatge escrit i imatge audiovisual en moviment.
+- Models d’IA generativa com GANs i models de difusió.
+- Simulació de càmera i il·luminació cinematogràfica automatitzada.
+- Interacció creativa mitjançant text com a eina de direcció audiovisual.
 
 ### Anàlisi amb les “ulleres de Manovich”
 
-Runway Gen-2 va més enllà del que Manovich definia com a programari creatiu. Aquí, el programari *substitueix* el procés tradicional de producció audiovisual. És un cas clar on el programari no és només un mitjà sinó un agent creatiu que interpreta el llenguatge humà i el converteix en narrativa visual. Això redefineix la relació entre autor, eina i obra.
+Manovich descriu el programari com un sistema que genera nous llenguatges visuals, i això és precisament el que fa Runway: crea un mitjà nou. Aquí, el llenguatge escrit no només serveix per descriure, sinó que es converteix en l’eina central de creació visual. És una hibridació total entre expressió verbal, algoritmes computacionals i narrativa audiovisual, que transforma l’autoria tal com l’entenem. Ja no cal saber filmar, muntar ni animar per crear una obra visual complexa: només cal escriure.
 
 ### Conclusions
 
-Aquest exemple mostra com la IA pot transformar radicalment el món audiovisual, obrint noves possibilitats expressives i democratitzant l’accés a la creació de vídeo. És una nova forma de producció híbrida que combina el llenguatge, l’art, el cinema i la ciència de dades.
+Runway Gen-2 obre les portes a una democratització radical de la creació audiovisual. Representa un salt conceptual en què l’autor delega en la màquina el procés de creació, però conserva el control conceptual a través del llenguatge. És una eina que exemplifica el futur de la creació híbrida i posa en crisi la frontera entre espectador, autor i màquina.
 
-🔗 [https://runwayml.com/gen2](https://runwayml.com/gen2)
+🔗 [Runway Gen-2](https://runwayml.com/gen2)  
+🔗 [Vídeo demostratiu](https://www.youtube.com/watch?v=jJOQjS7Eo3I)
 
 ---
 
 ## Referències
 
-- Manovich, L. (2013). *El software toma el mando*. UOC Editorial.
-- The Line Animation: https://www.thelineanimation.com/
-- Runway ML: https://runwayml.com/
-- Utilització d’eines d’IA: S’ha fet ús de ChatGPT per al suport en l’estructura del text, supervisió lingüística i cerca d’exemples, però el contingut ha estat desenvolupat i redactat originalment per l’autor.
+- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
+- The Line Animation: https://www.thelineanimation.com/  
+- Runway ML: https://runwayml.com/  
+- Vimeo: https://vimeo.com/theline  
+- Ús de la IA: S’ha fet ús de ChatGPT per al suport estructural i redacció supervisada. Tot el contingut ha estat adaptat i validat per l’autor.
 
