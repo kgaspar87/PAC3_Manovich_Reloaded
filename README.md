@@ -72,6 +72,16 @@ A més, Runway no només genera vídeo, sinó que permet combinar diversos *inpu
 
 ---
 
+## Conclusions generals
+
+Els dos casos analitzats, *Delivery at Dawn* i *Runway Gen-2*, mostren com l’hibridació audiovisual contemporània va molt més enllà de la simple barreja de tècniques o estils visuals. Estem davant d’un canvi de paradigma on el programari es converteix en l’eix central de la creació, no només com a eina sinó com a llenguatge i entorn conceptual.
+
+Amb les “ulleres de Manovich”, podem entendre aquestes pràctiques com a part d’un procés de transformació més profund: la dissolució dels límits entre disciplines, la reconfiguració del rol de l’artista i la irrupció de nous formats narratius i visuals que només poden existir dins lògiques de programari.
+
+Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, on la col·laboració entre humans i màquines ja no és una excepció, sinó una norma emergent. I en aquest nou escenari, el pensament crític, la capacitat d’adaptació i la comprensió dels mitjans híbrids seran claus per interpretar i crear el món visual que ve.
+
+---
+
 ## Referències
 
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
