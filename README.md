@@ -141,17 +141,34 @@ Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, o
 
 ---
 
-## Referències
+## Referències (estil APA 7a edició)
 
-- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
-- [The Line Animation](https://thelinestudio.com)  
-- [Runway ML](https://runwayml.com)  
-- [Instagram – The Line](https://www.instagram.com/thelineanimation/)
+**Llibres:**
+
+- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
 
 ---
 
-## Ús d'intel·ligència artificial
+**Webs i projectes:**
 
-Per a la revisió sintàctica i estilística del text, s'ha fet ús puntual de **ChatGPT** (OpenAI, 2024), respectant els criteris d'autoria i reflexió pròpia establerts per la UOC.
+- The Line Animation. (s. f.). *Delivery at Dawn*. The Line. Recuperat el 12 de maig de 2025, de [https://thelinestudio.com/work/delivery-at-dawn](https://thelinestudio.com/work/delivery-at-dawn)
+- The Line Animation. (s. f.). *Web oficial*. The Line. Recuperat el 12 de maig de 2025, de [https://thelinestudio.com](https://thelinestudio.com)
+- The Line Animation. (s. f.). *Instagram oficial*. Instagram. Recuperat el 12 de maig de 2025, de [https://www.instagram.com/thelineanimation/](https://www.instagram.com/thelineanimation/)
+- Runway. (s. f.). *Runway Gen-2*. Runway ML. Recuperat el 12 de maig de 2025, de [https://runwayml.com](https://runwayml.com)
+
+---
+
+**Vídeos:**
+
+- The Line. (2023, 20 de juny). *Delivery at Dawn – Full animation* [Vídeo]. YouTube. [https://www.youtube.com/watch?v=hm8XpXh-ayo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
+- Runway. (2023, 5 de juliol). *Tutorial Gen-2 – Primeros pasos* [Vídeo]. YouTube. [https://www.youtube.com/watch?v=CXOKxia5X8w](https://www.youtube.com/watch?v=CXOKxia5X8w)
+- Runway. (2023, 18 de setembre). *Vídeo de mostra Gen-2* [Vídeo]. YouTube. [https://www.youtube.com/watch?v=yYMpI3208ts](https://www.youtube.com/watch?v=yYMpI3208ts)
+
+---
+
+## Ús d’intel·ligència artificial
+
+- OpenAI. (2024). *ChatGPT* (versió GPT-4). [https://chat.openai.com](https://chat.openai.com)  
+  S’ha utilitzat **ChatGPT** com a suport puntual per a la revisió sintàctica, estilística i d’organització del contingut, seguint les directrius d’ús responsable i cita recomanades per la UOC.
 
 
