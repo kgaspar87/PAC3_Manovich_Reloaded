@@ -75,7 +75,7 @@ Manovich descriu el programari com un sistema que genera nous llenguatges visual
 A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inputs (text, imatges, vídeo de referència), crear transicions, aplicar filtres i ajustar estils visuals, fent que la IA actuï com una mena de "coautor creatiu", en coherència amb la visió de Manovich sobre el paper actiu del programari en la producció cultural contemporània.
 
 <div align="center">
-  <img src="runway3.png" alt="Interficie RunWay">
+  <img src="IMG/runway3.png" alt="Interficie RunWay">
 </div>
 
 ### Conclusions
@@ -87,6 +87,10 @@ A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inp
 🔗 [Runway Gen-2 – Web oficial](https://runwayml.com)  
 🔗 [Tutorial - Youtube](https://www.youtube.com/watch?v=CXOKxia5X8w)
 🔗 [Vídeo de mostra - Youtube](https://www.youtube.com/watch?v=yYMpI3208ts)
+
+<div align="center">
+  <img src="IMG/runway1.png" alt="Interficie RunWay">
+</div>
 
 ---
 
