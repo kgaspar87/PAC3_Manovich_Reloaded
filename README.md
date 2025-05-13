@@ -67,7 +67,7 @@ Aquest procés és possible gràcies a models d’aprenentatge profund entrenats
 És un entorn de creació radicalment diferent on el llenguatge verbal assumeix funcions pròpies de la càmera, l’actor i el director.
 
 <div align="center">
-  <img src="IMG/runway.png" alt="Run Way">
+  <img src="IMG/runway1.png" alt="Run Way">
 </div>
 
 ### Anàlisi amb les “ulleres de Manovich”
@@ -93,7 +93,7 @@ A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inp
 🔗 [Vídeo de mostra - Youtube](https://www.youtube.com/watch?v=yYMpI3208ts)
 
 <div align="center">
-  <img src="IMG/runway1.png" alt="Interficie RunWay">
+  <img src="IMG/runway.png" alt="Interficie RunWay">
 </div>
 
 ---
