@@ -31,21 +31,21 @@ Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capa
 </div>
 
 ### Anàlisi amb les “ulleres de Manovich”
-
+<div align="justify">
 Amb les "ulleres de Manovich", podem llegir *Delivery at Dawn* com un producte resultant del que ell anomena *metamedium*: un entorn on múltiples mitjans (animació, videojoc, cinema, codi) coexisteixen i es retroalimenten a través del programari. Aquí, el programari no és només una eina de producció, sinó l’escenari mateix de la creació.
 
 L’obra no es limita a simular formats antics, sinó que crea un nou llenguatge visual nascut de la fusió, en línia amb el que Manovich anomena *deep remixability*: la capacitat del programari per combinar capes funcionals de diferents mitjans a nivell estructural. Aquesta profunditat de la hibridació no només afecta l'estètica, sinó també el flux de treball, la semàntica narrativa i l’autoria digital.
 
 També exemplifica com el programari redefineix la relació entre l’humà i la màquina: l’artista no només utilitza eines, sinó que crea dins un entorn que genera possibilitats expressives pròpies.
-
+</div>
 <div align="center">
   <img src="IMG/deliveryatdawn2.png" alt="Escena de Delivery at Dawn">
 </div>
 
 ### Conclusions
-
+<div align="justify">
 *Delivery at Dawn* no només és una peça visualment atractiva, sinó un reflex clar del nou paradigma de creació audiovisual que Manovich anticipava. És un producte que només pot existir gràcies a la hibridació entre disciplines i tecnologies. La combinació d’animació manual, entorns virtuals, engines de videojoc i processos automatitzats exemplifica una nova era on els límits entre art, tècnica i programari són cada cop més difusos.
-
+</div>
 🔗 [Behind the scenes a Instagram](https://www.instagram.com/thelineanimation/)  
 🔗 [The Line – Web oficial](https://thelinestudio.com)
 🔗 [The Line – Web oficial- Delivery at dawn](https://thelinestudio.com/work/delivery-at-dawn)
