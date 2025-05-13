@@ -45,7 +45,7 @@ També exemplifica com el programari redefineix la relació entre l’humà i la
 🔗 [Youtube – Vídeo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
 
 <div align="center">
-  <img src="IMG/theline.jpg" alt="The Line">
+  <img src="IMG/theline.png" alt="The Line">
 </div>
 
 ---
