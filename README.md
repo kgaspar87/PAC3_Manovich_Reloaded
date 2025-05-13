@@ -61,7 +61,7 @@ També exemplifica com el programari redefineix la relació entre l’humà i la
 ## Exemple 2: *Runway Gen-2* – Intel·ligència artificial i vídeo generatiu
 
 ### Descripció del projecte
-
+<div align="justify">
 *Runway Gen-2* és una de les eines més innovadores dins del camp de la creació audiovisual basada en intel·ligència artificial. Desenvolupada per l’empresa Runway, aquesta plataforma representa una nova hibridació radical entre llenguatge escrit, algoritmes d’aprenentatge automàtic i vídeo generatiu.
 
 Permet, a partir d’un simple text, generar clips de vídeo breus, realistes i amb una estètica cinematogràfica sorprenent. L’usuari només ha d’introduir un *prompt*, com ara “una ciutat abandonada coberta per boira”, i l’eina genera un clip coherent, amb moviment, il·luminació i color.
@@ -69,28 +69,29 @@ Permet, a partir d’un simple text, generar clips de vídeo breus, realistes i 
 Aquest procés és possible gràcies a models d’aprenentatge profund entrenats amb grans bases de dades audiovisuals. El sistema entén el llenguatge natural, el transforma en vectors semàntics i els converteix en imatges en moviment mitjançant tècniques com els GANs (Generative Adversarial Networks) i els models de difusió. Tot això sense necessitat de rodatge, animació manual ni muntatge.
 
 És un entorn de creació radicalment diferent on el llenguatge verbal assumeix funcions pròpies de la càmera, l’actor i el director.
-
+</div>
 <div align="center">
   <img src="IMG/runway1.png" alt="Run Way">
 </div>
 
 ### Anàlisi amb les “ulleres de Manovich”
-
+<div align="justify">
 Manovich descriu el programari com un sistema que genera nous llenguatges visuals, i això és precisament el que fa *Runway*: crea un mitjà nou. Aquí, el llenguatge escrit no només serveix per descriure, sinó que es converteix en l’eina central de creació visual.
 
 És una hibridació total entre expressió verbal, algoritmes computacionals i narrativa audiovisual, que transforma l’autoria tal com l’entenem. Seguint la idea de Manovich del programari com a *capa cultural*, *Runway* no només opera com una eina funcional, sinó com un entorn creatiu capaç de generar codis visuals propis, reformulant l'espai entre llenguatge i imatge, entre decisió humana i generació algorítmica.
 
 A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inputs (text, imatges, vídeo de referència), crear transicions, aplicar filtres i ajustar estils visuals, fent que la IA actuï com una mena de "coautor creatiu", en coherència amb la visió de Manovich sobre el paper actiu del programari en la producció cultural contemporània.
-
+</div>
 <div align="center">
   <img src="IMG/runway3.png" alt="Interficie RunWay">
 </div>
 
 ### Conclusions
-
+<div align="justify">
 *Runway Gen-2* representa un cas extrem d’hibridació, tant en la seva forma com en la seva metodologia. Transforma completament la lògica clàssica de producció audiovisual i obre un debat sobre el futur de l’autoria, la creativitat i la figura de l’artista.
 
 És un exemple perfecte d’on pot portar la fusió entre narrativa, algoritmes i estètica visual en el context d’un programari que ja no només ajuda a crear, sinó que crea per si sol.
+</div>
 
 🔗 [Runway Gen-2 – Web oficial](https://runwayml.com)  
 🔗 [Tutorial - Youtube](https://www.youtube.com/watch?v=CXOKxia5X8w)
@@ -103,12 +104,13 @@ A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inp
 ---
 
 ## Conclusions generals
-
+<div align="justify">
 Els dos casos analitzats, *Delivery at Dawn* i *Runway Gen-2*, mostren com l’hibridació audiovisual contemporània va molt més enllà de la simple barreja de tècniques o estils visuals. Estem davant d’un canvi de paradigma on el programari es converteix en l’eix central de la creació, no només com a eina sinó com a llenguatge i entorn conceptual.
 
 Amb les “ulleres de Manovich”, podem entendre aquestes pràctiques com a part d’un procés de transformació més profund: la dissolució dels límits entre disciplines, la reconfiguració del rol de l’artista i la irrupció de nous formats narratius i visuals que només poden existir dins lògiques de programari.
 
 Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, on la col·laboració entre humans i màquines ja no és una excepció, sinó una norma emergent. I en aquest nou escenari, el pensament crític, la capacitat d’adaptació i la comprensió dels mitjans híbrids seran claus per interpretar i crear el món visual que ve.
+</div>
 
 ---
 
