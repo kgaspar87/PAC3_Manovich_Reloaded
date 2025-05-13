@@ -155,6 +155,7 @@ Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, o
 - The Line Animation. (s. f.). *Web oficial*. The Line. Recuperat el 12 de maig de 2025, de [https://thelinestudio.com](https://thelinestudio.com)
 - The Line Animation. (s. f.). *Instagram oficial*. Instagram. Recuperat el 12 de maig de 2025, de [https://www.instagram.com/thelineanimation/](https://www.instagram.com/thelineanimation/)
 - Runway. (s. f.). *Runway Gen-2*. Runway ML. Recuperat el 12 de maig de 2025, de [https://runwayml.com](https://runwayml.com)
+- Cáceres, M. (2022). *¿Qué es la hibridación de medios digitales?* [En línia]. Xataka. [Data de consulta: 12 de maig de 2025]. Disponible a: https://www.xataka.com/cultura-tecnologica/que-es-hibridacion-medios-digitales
 
 ---
 
