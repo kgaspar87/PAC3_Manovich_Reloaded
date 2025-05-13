@@ -42,9 +42,14 @@ L’obra no es limita a simular formats antics, sinó que crea un nou llenguatge
 
 També exemplifica com el programari redefineix la relació entre l’humà i la màquina: l’artista no només utilitza eines, sinó que crea dins un entorn que genera possibilitats expressives pròpies.
 </div>
+
+&nbsp;
+
 <div align="center">
   <img src="IMG/deliveryatdawn2.png" alt="Escena de Delivery at Dawn">
 </div>
+
+&nbsp;
 
 ### Conclusions
 <div align="justify">
@@ -56,9 +61,13 @@ També exemplifica com el programari redefineix la relació entre l’humà i la
 🔗 [The Line – Web oficial- Delivery at dawn](https://thelinestudio.com/work/delivery-at-dawn)
 🔗 [Youtube – Vídeo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
 
+&nbsp;
+
 <div align="center">
   <img src="IMG/theline.png" alt="The Line">
 </div>
+
+&nbsp;
 
 ---
 
@@ -74,9 +83,14 @@ Aquest procés és possible gràcies a models d’aprenentatge profund entrenats
 
 És un entorn de creació radicalment diferent on el llenguatge verbal assumeix funcions pròpies de la càmera, l’actor i el director.
 </div>
+
+&nbsp;
+
 <div align="center">
   <img src="IMG/runway1.png" alt="Run Way">
 </div>
+
+&nbsp;
 
 ### Anàlisi amb les “ulleres de Manovich”
 <div align="justify">
@@ -86,9 +100,14 @@ Manovich descriu el programari com un sistema que genera nous llenguatges visual
 
 A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inputs (text, imatges, vídeo de referència), crear transicions, aplicar filtres i ajustar estils visuals, fent que la IA actuï com una mena de "coautor creatiu", en coherència amb la visió de Manovich sobre el paper actiu del programari en la producció cultural contemporània.
 </div>
+
+&nbsp;
+
 <div align="center">
   <img src="IMG/runway3.png" alt="Interficie RunWay">
 </div>
+
+&nbsp;
 
 ### Conclusions
 <div align="justify">
@@ -101,9 +120,13 @@ A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inp
 🔗 [Tutorial - Youtube](https://www.youtube.com/watch?v=CXOKxia5X8w)
 🔗 [Vídeo de mostra - Youtube](https://www.youtube.com/watch?v=yYMpI3208ts)
 
+&nbsp;
+
 <div align="center">
   <img src="IMG/runway.png" alt="Interficie RunWay">
 </div>
+
+&nbsp;
 
 ---
 
