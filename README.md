@@ -94,6 +94,10 @@ Amb les “ulleres de Manovich”, podem entendre aquestes pràctiques com a par
 
 Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, on la col·laboració entre humans i màquines ja no és una excepció, sinó una norma emergent. I en aquest nou escenari, el pensament crític, la capacitat d’adaptació i la comprensió dels mitjans híbrids seran claus per interpretar i crear el món visual que ve.
 
+<div align="center">
+  <img src="IMG/runway.png" alt="Run Way">
+</div>
+
 ---
 
 ## Referències
