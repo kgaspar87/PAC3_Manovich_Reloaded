@@ -82,6 +82,7 @@ A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inp
 
 🔗 [Runway Gen-2 – Web oficial](https://runwayml.com)  
 🔗 [Vídeo de mostra](https://runwayml.com)
+🔗 [Vídeo de mostra - Youtube](https://www.youtube.com/watch?v=yYMpI3208ts)
 
 ---
 
