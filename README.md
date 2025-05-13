@@ -35,6 +35,10 @@ L’obra no es limita a simular formats antics, sinó que crea un nou llenguatge
 
 També exemplifica com el programari redefineix la relació entre l’humà i la màquina: l’artista no només utilitza eines, sinó que crea dins un entorn que genera possibilitats expressives pròpies.
 
+<div align="center">
+  <img src="IMG/deliveryatdawn2.png" alt="Escena de Delivery at Dawn">
+</div>
+
 ### Conclusions
 
 *Delivery at Dawn* no només és una peça visualment atractiva, sinó un reflex clar del nou paradigma de creació audiovisual que Manovich anticipava. És un producte que només pot existir gràcies a la hibridació entre disciplines i tecnologies. La combinació d’animació manual, entorns virtuals, engines de videojoc i processos automatitzats exemplifica una nova era on els límits entre art, tècnica i programari són cada cop més difusos.
