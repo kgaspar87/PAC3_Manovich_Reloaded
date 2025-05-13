@@ -56,10 +56,8 @@ També exemplifica com el programari redefineix la relació entre l’humà i la
 *Delivery at Dawn* no només és una peça visualment atractiva, sinó un reflex clar del nou paradigma de creació audiovisual que Manovich anticipava. És un producte que només pot existir gràcies a la hibridació entre disciplines i tecnologies. La combinació d’animació manual, entorns virtuals, engines de videojoc i processos automatitzats exemplifica una nova era on els límits entre art, tècnica i programari són cada cop més difusos.
 </div>
 
-[Behind the scenes a Instagram](https://www.instagram.com/thelineanimation/)  
-🔗 [The Line – Web oficial](https://thelinestudio.com)
-🔗 [The Line – Web oficial- Delivery at dawn](https://thelinestudio.com/work/delivery-at-dawn)
-🔗 [Youtube – Vídeo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
+[Behind the scenes a Instagram](https://www.instagram.com/thelineanimation/)  [The Line – Web oficial](https://thelinestudio.com)
+[The Line – Web oficial- Delivery at dawn](https://thelinestudio.com/work/delivery-at-dawn) [Youtube – Vídeo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
 
 &nbsp;
 
