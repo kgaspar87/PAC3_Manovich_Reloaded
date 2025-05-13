@@ -183,6 +183,6 @@ Pots reutilitzar, compartir i adaptar aquest contingut amb finalitats no comerci
 - Es mantingui la mateixa llicència en qualsevol derivació.
 - No se’n faci un ús comercial.
 
-🔗 [Més informació sobre aquesta llicència](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca)
+[Més informació sobre aquesta llicència](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca)
 
 
