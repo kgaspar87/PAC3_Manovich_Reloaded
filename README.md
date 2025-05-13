@@ -141,7 +141,7 @@ Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, o
 
 ---
 
-## Referències (estil APA 7a edició)
+## Referències
 
 **Llibres:**
 
