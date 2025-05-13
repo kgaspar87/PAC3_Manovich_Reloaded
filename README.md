@@ -25,6 +25,9 @@ Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capa
 
 ![Imatge de Delivery at Dawn](IMG/deliveryatdawn1.jpg)
 
+<div align="center">
+  <img src="IMG/deliveryatdawn1.jpg" alt="Escena de Delivery at Dawn">
+</div>
 
 ### Anàlisi amb les “ulleres de Manovich”
 
