@@ -39,7 +39,7 @@ També exemplifica com el programari redefineix la relació entre l’humà i la
 
 🔗 [Behind the scenes a Instagram](https://www.instagram.com/thelineanimation/)  
 🔗 [The Line – Web oficial](https://thelinestudio.com)
-🔗 [The Line – Web oficial](https://thelinestudio.com/work/delivery-at-dawn)
+🔗 [The Line – Web oficial- Delivery at dawn](https://thelinestudio.com/work/delivery-at-dawn)
 🔗 [Youtube – Vídeo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
 
 ---
