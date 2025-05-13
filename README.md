@@ -23,6 +23,8 @@ A més, el projecte s’ha beneficiat de processos automatitzats mitjançant int
 
 Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capacitat d’intervenció, eliminant tasques repetitives i permetent enfocaments més creatius.
 
+[![Escena de Delivery at Dawn](https://thelinestudio.com/assets/images/delivery-at-dawn.jpg)](https://thelinestudio.com/project/delivery-at-dawn)
+
 ### Anàlisi amb les “ulleres de Manovich”
 
 Amb les "ulleres de Manovich", podem llegir *Delivery at Dawn* com un producte resultant del que ell anomena *metamedium*: un entorn on múltiples mitjans (animació, videojoc, cinema, codi) coexisteixen i es retroalimenten a través del programari. Aquí, el programari no és només una eina de producció, sinó l’escenari mateix de la creació.
