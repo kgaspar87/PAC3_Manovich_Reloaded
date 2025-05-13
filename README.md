@@ -66,6 +66,10 @@ Aquest procés és possible gràcies a models d’aprenentatge profund entrenats
 
 És un entorn de creació radicalment diferent on el llenguatge verbal assumeix funcions pròpies de la càmera, l’actor i el director.
 
+<div align="center">
+  <img src="IMG/runway.png" alt="Run Way">
+</div>
+
 ### Anàlisi amb les “ulleres de Manovich”
 
 Manovich descriu el programari com un sistema que genera nous llenguatges visuals, i això és precisament el que fa *Runway*: crea un mitjà nou. Aquí, el llenguatge escrit no només serveix per descriure, sinó que es converteix en l’eina central de creació visual.
@@ -101,10 +105,6 @@ Els dos casos analitzats, *Delivery at Dawn* i *Runway Gen-2*, mostren com l’h
 Amb les “ulleres de Manovich”, podem entendre aquestes pràctiques com a part d’un procés de transformació més profund: la dissolució dels límits entre disciplines, la reconfiguració del rol de l’artista i la irrupció de nous formats narratius i visuals que només poden existir dins lògiques de programari.
 
 Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, on la col·laboració entre humans i màquines ja no és una excepció, sinó una norma emergent. I en aquest nou escenari, el pensament crític, la capacitat d’adaptació i la comprensió dels mitjans híbrids seran claus per interpretar i crear el món visual que ve.
-
-<div align="center">
-  <img src="IMG/runway.png" alt="Run Way">
-</div>
 
 ---
 
