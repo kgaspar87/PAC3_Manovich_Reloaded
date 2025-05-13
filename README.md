@@ -4,9 +4,9 @@
 **Títol:** Hibridacions audiovisuals emergents: més enllà del programari tradicional  
 
 ## Introducció
-
+<div align="justify">
 En aquest assaig es presenten dos casos recents d'hibridació audiovisual que exemplifiquen com el programari, l'animació i la intel·ligència artificial poden fusionar disciplines i mitjans per generar nous formats creatius. Partint del concepte d’hibridació exposat per Lev Manovich a *El software toma el mando*, analitzarem com aquestes noves pràctiques no només barregen mitjans visuals, sinó també processos productius i lògiques narratives que transformen la creació digital contemporània.
-
+</div>
 ---
 
 ## Exemple 1: *Delivery at Dawn* – The Line Animation
