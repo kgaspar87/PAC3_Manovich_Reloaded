@@ -171,4 +171,17 @@ Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, o
 - OpenAI. (2024). *ChatGPT* (versió GPT-4). [https://chat.openai.com](https://chat.openai.com)  
   S’ha utilitzat **ChatGPT** com a suport puntual per a la revisió sintàctica, estilística i d’organització del contingut, seguint les directrius d’ús responsable i cita recomanades per la UOC.
 
+---
+
+## Llicència del projecte
+
+Aquest treball està publicat sota una **llicència Creative Commons Reconeixement - NoComercial - CompartirIgual (CC BY-NC-SA 4.0)**.  
+Pots reutilitzar, compartir i adaptar aquest contingut amb finalitats no comercials, sempre que:
+
+- Es citi l’autoria original (Kevin Gaspar Rubio).
+- Es mantingui la mateixa llicència en qualsevol derivació.
+- No se’n faci un ús comercial.
+
+🔗 [Més informació sobre aquesta llicència](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca)
+
 
