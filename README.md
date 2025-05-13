@@ -37,7 +37,7 @@ També exemplifica com el programari redefineix la relació entre l’humà i la
 
 🔗 [Behind the scenes a Instagram](https://www.instagram.com/thelineanimation/)  
 🔗 [The Line – Web oficial](https://thelinestudio.com)
-🔗 [The Line – Web oficial](https://www.youtube.com/watch?v=hm8XpXh-ayo))
+🔗 [Youtube – Vídeo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
 
 ---
 
