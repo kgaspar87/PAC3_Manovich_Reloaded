@@ -23,7 +23,7 @@ A més, el projecte s’ha beneficiat de processos automatitzats mitjançant int
 
 Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capacitat d’intervenció, eliminant tasques repetitives i permetent enfocaments més creatius.
 
-[![Escena de Delivery at Dawn](https://thelinestudio.com/assets/images/delivery-at-dawn.jpg)](https://thelinestudio.com/project/delivery-at-dawn)
+
 
 ### Anàlisi amb les “ulleres de Manovich”
 
