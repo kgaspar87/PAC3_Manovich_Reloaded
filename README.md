@@ -14,6 +14,7 @@ En aquest assaig es presenten dos casos recents d'hibridació audiovisual que ex
 
 ### Descripció del projecte
 
+<div align="justify">
 *Delivery at Dawn* és un curtmetratge d'animació creat per l'estudi britànic The Line, conegut per la seva capacitat de trencar les fronteres entre tècniques d'animació tradicionals i digitals. El curt narra el viatge d’un missatger en una ciutat futurista, amb un estil visual proper a l’anime i un tractament tècnic altament híbrid que el converteix en un exemple excel·lent de fusió de llenguatges.
 
 A nivell formal, la peça destaca per la seva combinació d’animació 2D dibuixada a mà amb entorns i càmeres 3D, renderitzats amb motors gràfics propis del videojoc. Els personatges mantenen el traç orgànic i expressiu de l’animació clàssica, mentre que els espais per on es mouen estan construïts digitalment, permetent moviments de càmera més complexos, variacions de llum en temps real i una sensació de profunditat escènica que la 2D pura no pot oferir.
@@ -23,6 +24,7 @@ Aquest sistema híbrid fa possible coreografies dinàmiques, i una posada en esc
 A més, el projecte s’ha beneficiat de processos automatitzats mitjançant intel·ligència artificial, com la interpolació de frames o l’ajust de moviment facial, optimitzant la producció sense perdre control artístic.
 
 Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capacitat d’intervenció, eliminant tasques repetitives i permetent enfocaments més creatius.
+</div>
 
 <div align="center">
   <img src="IMG/deliveryatdawn1.jpg" alt="Escena de Delivery at Dawn">
