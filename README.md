@@ -116,6 +116,8 @@ A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inp
 És un exemple perfecte d’on pot portar la fusió entre narrativa, algoritmes i estètica visual en el context d’un programari que ja no només ajuda a crear, sinó que crea per si sol.
 </div>
 
+&nbsp;
+
 [Runway Gen-2 – Web oficial](https://runwayml.com) - [Tutorial - Youtube](https://www.youtube.com/watch?v=CXOKxia5X8w) - [Vídeo de mostra - Youtube](https://www.youtube.com/watch?v=yYMpI3208ts)
 
 &nbsp;
