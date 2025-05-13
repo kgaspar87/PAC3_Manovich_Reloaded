@@ -27,7 +27,9 @@ Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capa
 
 Amb les "ulleres de Manovich", podem llegir *Delivery at Dawn* com un producte resultant del que ell anomena *metamedium*: un entorn on múltiples mitjans (animació, videojoc, cinema, codi) coexisteixen i es retroalimenten a través del programari. Aquí, el programari no és només una eina de producció, sinó l’escenari mateix de la creació.
 
-L’obra no es limita a simular formats antics, sinó que crea un nou llenguatge visual nascut de la fusió. En aquest sentit, l’hibridació no és superficial (com la simple barreja d’estils visuals), sinó estructural: afecta la narrativa, la producció, el ritme i fins i tot la relació entre creador i eina.
+L’obra no es limita a simular formats antics, sinó que crea un nou llenguatge visual nascut de la fusió, en línia amb el que Manovich anomena *deep remixability*: la capacitat del programari per combinar capes funcionals de diferents mitjans a nivell estructural. Aquesta profunditat de la hibridació no només afecta l'estètica, sinó també el flux de treball, la semàntica narrativa i l’autoria digital.
+
+També exemplifica com el programari redefineix la relació entre l’humà i la màquina: l’artista no només utilitza eines, sinó que crea dins un entorn que genera possibilitats expressives pròpies.
 
 ### Conclusions
 
@@ -54,9 +56,9 @@ Aquest procés és possible gràcies a models d’aprenentatge profund entrenats
 
 Manovich descriu el programari com un sistema que genera nous llenguatges visuals, i això és precisament el que fa *Runway*: crea un mitjà nou. Aquí, el llenguatge escrit no només serveix per descriure, sinó que es converteix en l’eina central de creació visual.
 
-És una hibridació total entre expressió verbal, algoritmes computacionals i narrativa audiovisual, que transforma l’autoria tal com l’entenem. Ja no cal saber filmar, muntar ni animar per crear una obra visual complexa: només cal escriure.
+És una hibridació total entre expressió verbal, algoritmes computacionals i narrativa audiovisual, que transforma l’autoria tal com l’entenem. Seguint la idea de Manovich del programari com a *capa cultural*, *Runway* no només opera com una eina funcional, sinó com un entorn creatiu capaç de generar codis visuals propis, reformulant l'espai entre llenguatge i imatge, entre decisió humana i generació algorítmica.
 
-A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inputs (text, imatges, vídeo de referència), crear transicions, aplicar filtres i ajustar estils visuals, fent que la IA actuï com una mena de "coautor creatiu", seguint la línia de pensament de Manovich sobre el programari com a agent actiu en la creació.
+A més, *Runway* no només genera vídeo, sinó que permet combinar diversos inputs (text, imatges, vídeo de referència), crear transicions, aplicar filtres i ajustar estils visuals, fent que la IA actuï com una mena de "coautor creatiu", en coherència amb la visió de Manovich sobre el paper actiu del programari en la producció cultural contemporània.
 
 ### Conclusions
 
@@ -91,3 +93,5 @@ Aquestes hibridacions exemplifiquen una nova estètica de la creació digital, o
 ## Ús d'intel·ligència artificial
 
 Per a la revisió sintàctica i estilística del text, s'ha fet ús puntual de **ChatGPT** (OpenAI, 2024), respectant els criteris d'autoria i reflexió pròpia establerts per la UOC.
+
+
