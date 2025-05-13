@@ -39,10 +39,11 @@ També exemplifica com el programari redefineix la relació entre l’humà i la
 
 🔗 [Behind the scenes a Instagram](https://www.instagram.com/thelineanimation/)  
 🔗 [The Line – Web oficial](https://thelinestudio.com)
+🔗 [The Line – Web oficial](https://thelinestudio.com/work/delivery-at-dawn)
 🔗 [Youtube – Vídeo](https://www.youtube.com/watch?v=hm8XpXh-ayo)
 
 ---
-
+https://thelinestudio.com/work/delivery-at-dawn
 ## Exemple 2: *Runway Gen-2* – Intel·ligència artificial i vídeo generatiu
 
 ### Descripció del projecte
