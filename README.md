@@ -22,6 +22,7 @@ Aquest sistema híbrid fa possible coreografies dinàmiques, i una posada en esc
 A més, el projecte s’ha beneficiat de processos automatitzats mitjançant intel·ligència artificial, com la interpolació de frames o l’ajust de moviment facial, optimitzant la producció sense perdre control artístic.
 
 Aquest ús de la IA no substitueix l’artista, sinó que amplifica la seva capacitat d’intervenció, eliminant tasques repetitives i permetent enfocaments més creatius.
+
 ![Imatge de Delivery at Dawn](IMG/deliveryatdawn1.jpg)
 
 
